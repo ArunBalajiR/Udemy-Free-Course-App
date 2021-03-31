@@ -22,7 +22,7 @@
 
 
 ---
-[![Download Apk](https://raw.githubusercontent.com/ArunBalajiR/Udemy-Free-Course-App/main/Images/apk_btn.png)](https://github.com/ArunBalajiR/Udemy-Free-Course-App/master/files/app-release.apk)
+[![Download Apk](https://raw.githubusercontent.com/ArunBalajiR/Udemy-Free-Course-App/main/Images/apk_btn.png)](https://github.com/ArunBalajiR/Udemy-Free-Course-App/releases/download/v1.0/bookmycourse.apk)
 
 
 
