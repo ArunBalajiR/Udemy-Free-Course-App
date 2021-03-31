@@ -1,0 +1,38 @@
+name: bookmycourse
+description: A new Flutter application.
+
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  google_fonts: ^2.0.0
+  cached_network_image: ^3.0.0
+  http: any
+  share: ^2.0.1
+  flutter_spinkit: "^4.1.2"
+  url_launcher: any
+  webview_flutter: ^2.0.2
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+
+  uses-material-design: true
+
